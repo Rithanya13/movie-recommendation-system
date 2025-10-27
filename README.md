@@ -1,7 +1,25 @@
 # movie-recommendation-system
 Reinforcement learning-based movie recommendation engine using Flask and Streamlit.
 
+# 🎬 Movie Recommendation System  
+**Reinforcement Learning–Based Personalized Recommendation Engine**  
+*Tech Stack:* Python, Pandas, Scikit-learn, Flask, Streamlit  
+
 ---
+
+### 🔍 Overview  
+A personalized movie recommendation engine that combines **collaborative filtering**, **content embeddings**, and **reinforcement learning** to dynamically refine movie suggestions.  
+
+---
+
+### ⚙️ Key Features  
+- **Hybrid Modeling:** Combines user–item collaborative filtering with NLP-based content embeddings.  
+- **Reinforcement Learning:** Uses reward signals to improve recommendation relevance over time.  
+- **Model Evaluation:** Metrics include RMSE and MAPE for performance optimization.  
+- **Interactive Dashboard:** Built with Flask and Streamlit, featuring SHAP visualizations for explainable AI insights.  
+
+---
+
 
 ### 📈 Results  
 - Increased recommendation accuracy through hybrid and RL-based feedback.  
